@@ -1,0 +1,16 @@
+.Button{
+  width:auto;
+  border:2px solid red;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #f26;
+  text-align: center;
+  font-size: 2em;
+}
+.Button[data-value="null"] {
+  pointer-events: none;
+}
+.Button:hover {
+  background: #d7ddd3;
+  cursor: pointer;
+}

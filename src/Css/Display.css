@@ -1,0 +1,9 @@
+.Display {
+  width: 25vw;
+  height: 10vh;
+  border: 2px solid red;
+  background-color: #aa9;
+  border-radius: 5px;
+  text-align: right;
+  font-size: 2em;
+}

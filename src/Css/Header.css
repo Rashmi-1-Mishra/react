@@ -1,0 +1,10 @@
+.Header {
+  text-align: center;
+  font-size: 3.5em;
+  background-color: #f99;
+  width: 25vw;
+  height :auto;
+  border: 2px solid red;
+  border-radius: 5px;
+  color: #fff;
+}
